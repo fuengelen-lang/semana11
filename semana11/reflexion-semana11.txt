@@ -1,0 +1,7 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita una base de datos porque sin ella no hay forma de almacenar ni consultar la información que generan los usuarios, como causas, apoyos o registros de actividad. Sin persistencia de datos, cualquier acción realizada en la plataforma desaparecería al cerrar la sesión, haciendo el sistema inútil para el seguimiento comunitario.
+
+La autenticación de usuarios es igualmente necesaria porque no todas las personas deben tener acceso a las mismas funciones. Un sistema sin control de acceso permite que cualquier persona modifique o elimine información, lo que pone en riesgo la integridad de los datos y la confianza de la comunidad. Identificar a cada usuario también genera trazabilidad, es decir, permite saber quién hizo qué y cuándo.
+
+La protección de información es un deber ético y práctico. Las plataformas ciudadanas manejan datos de personas reales que confían en que su información no será expuesta ni mal utilizada. Publicar datos sensibles como documentos, teléfonos o correos puede generar daños concretos a los participantes y destruir la credibilidad del proyecto.
+
+En conjunto, base de datos, autenticación y protección de datos no son funciones técnicas opcionales: son la base que hace posible que una plataforma participativa funcione de manera responsable, sostenible y digna de la confianza de quienes la usan.

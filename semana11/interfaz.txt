@@ -1,0 +1,11 @@
+Interfaz básica - Plataforma comunitaria
+
+La interfaz tendría una sección principal donde se muestran todas las causas comunitarias disponibles, con su título, descripción y fecha de publicación, para que cualquier ciudadano pueda informarse sobre las iniciativas activas.
+
+Cada causa tendría un botón de apoyo visible que el usuario puede presionar para sumarse a la iniciativa, junto a un contador que muestra en tiempo real cuántas personas la han apoyado hasta el momento.
+
+Habría también un formulario para crear una nueva causa, disponible solo para usuarios autenticados, con campos de texto para ingresar el título, la descripción y la fecha. Este formulario tendría validaciones básicas para evitar que se publiquen causas sin información completa.
+
+La interfaz debe ser clara, sencilla y accesible desde cualquier dispositivo. No debe mostrar información privada de los usuarios como correos, documentos o teléfonos. Solo se mostraría el nombre o usuario público de quien creó la causa, nunca sus datos personales.
+
+En la parte superior habría un menú con opciones de inicio de sesión, registro y, una vez autenticado, acceso al panel de gestión según el rol del usuario.
